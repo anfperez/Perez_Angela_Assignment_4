@@ -7,7 +7,3 @@ The assignment entailed creating a series of classes that would allow a customer
 ## Technologies Used
 * Java
 * IntelliJ IDEA
-
-## Feature Specs
-
-* 
